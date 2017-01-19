@@ -1,3 +1,3 @@
-var num = 128;
-var numToString = num.toString();
+var numberToConvert = 128;
+var numToString = numberToConvert.toString();
 console.log(numToString);

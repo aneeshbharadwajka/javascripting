@@ -1,2 +1,2 @@
-var demoString = 'This is a example string';
+var demoString = 'example string';
 console.log( demoString. length);
